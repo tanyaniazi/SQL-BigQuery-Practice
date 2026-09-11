@@ -4,8 +4,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Certified-20beff.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Intro to SQL Certificate](image_bd97c8.jpg)](image_bd97c8.jpg)  
-[![Advanced SQL Certificate](image_bd97d1.jpg)](image_bd97d1.jpg)
+[![Intro to SQL Certificate](intro.jpg)](intro.jpeg)  
+[![Advanced SQL Certificate](advanced.jpg)](advanced.jpeg)
 
 Practical implementation of cloud-based relational database queries and advanced data manipulation scripts using **Google BigQuery** and the Python client library. 
 
